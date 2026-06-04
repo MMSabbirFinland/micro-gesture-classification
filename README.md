@@ -1,3 +1,6 @@
+![Project Preview](preview.png)
+
+
 Micro‑Gesture Classification using ResNet‑18
 ===========================================
 
